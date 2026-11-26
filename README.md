@@ -1,5 +1,7 @@
 # 🚛 FleetControl | Sistema de Gestão de Frotas e Manutenção
 
+n![Dashboard FleetControl](docs/dashboard.png)
+
 Sistema Full Stack desenvolvido para controle operacional, financeiro e preventivo de frotas de veículos pesados e leves, unindo práticas de **Logística e Manutenção Eletromecânica** com **Engenharia de Software**.
 
 ## 🚀 Funcionalidades
